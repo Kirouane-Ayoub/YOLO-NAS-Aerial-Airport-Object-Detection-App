@@ -1,0 +1,6 @@
+supervision
+super_gradients
+gdown
+torch
+numpy
+gradio
