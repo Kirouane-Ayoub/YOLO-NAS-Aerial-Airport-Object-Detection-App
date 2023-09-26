@@ -29,6 +29,9 @@ This project utilizes the **YOLO-NAS** (You Only Look Once - Neural Architecture
 + **Traffic Management**: Aid in efficient traffic management at airports.
 + **Research**: Support research in aviation and transportation.
 
+![download](https://github.com/Kirouane-Ayoub/YOLO-NAS-Aerial-Airport-Object-Detection-App/assets/99510125/c5e4bdab-da52-40bd-a333-45e392f761b9)
+
+
 ## Ethical Considerations:
 
 + **Privacy**: Ensure that the app is used responsibly to respect privacy and not capture individuals or sensitive information in the images.
